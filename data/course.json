@@ -1,0 +1,38 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course-chemistry"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course-chemistry"
+  },
+  "course_title": "Title test again",
+  "course_description": "Test desc",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course-chemistry"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "872fa3a0-5631-41c1-994e-fa448c8d200a",
+  "site_short_id": "course-chem-2010"
+}
